@@ -1,0 +1,11 @@
+git clone 位置
+git status 查看修改状态
+git fetch origin master 获取最新代码
+git merge origin/master 合并最新代码
+
+
+提交修改
+git status
+git add . 全部都提及上去。如果提及某一个 就 git add 文件名
+git commit -m "提交内容"
+git push 推上去
